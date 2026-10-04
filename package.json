@@ -1,0 +1,21 @@
+{
+  "name": "cicdtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takeysee/CICDTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/takeysee/CICDTest/issues"
+  },
+  "homepage": "https://github.com/takeysee/CICDTest#readme"
+}
