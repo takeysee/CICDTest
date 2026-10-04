@@ -3,5 +3,5 @@ const assert = require('node:assert'); // ② 値の比較・検証（assert関�
 const add = require('./math');       // ③ テスト対象の関数
 
 test('adds 1 + 2 to equal 3', () => {
-  assert.strictEqual(add(1, 2), 3);   // add(1, 2) の結果が 3 と厳密に一致するか検証
+  assert.strictEqual(add(1, 2), 99);   // add(1, 2) の結果が 3 と厳密に一致するか検証
 });
